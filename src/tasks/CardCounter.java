@@ -24,6 +24,7 @@ public class CardCounter {
         newRow.remove(leftPick < rightPick ? cards.size() -1 : 0);
         return Math.max(turn(newRow, currentScore + leftPick, turns - 1),
                 turn(newRow, currentScore + rightPick, turns - 1));
+        // TODO Не работает. Отложено.
     }
 
 
