@@ -1,20 +1,8 @@
-import static tasks.LongestCommonPrefix.startTestsPrefix;
-import static tasks.ValidParentheses.testsValidParentheses;
+import static tasks.SingleNum.testSingleNum;
 
 public class Main {
 
     public static void main(String[] args) {
-        testsValidParentheses();
+        testSingleNum();
     }
 }
-
-//        startTestsPrefix();
-//        romanConverterTests();
-//        testsTwoSum();
-//        Stage200.startTests();
-//        MergeNonDecreasingArrays.startTests();
-//        startTestsDoublePointer();
-//        startTestsBinarySearch();
-//        startTestsFibonacciNumber();
-//        System.out.println(getMidNumber(ints));
-//        System.out.println(reverseWords("world hallo again"));
