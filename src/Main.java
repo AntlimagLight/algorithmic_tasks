@@ -1,8 +1,8 @@
-import static tasks.ReverseInt.testReverse;
+import static tasks.MergeIntervals.testsMergeIntervals;
 
 public class Main {
 
     public static void main(String[] args) {
-        testReverse();
+        testsMergeIntervals();
     }
 }
