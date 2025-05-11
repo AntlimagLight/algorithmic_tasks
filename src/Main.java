@@ -1,8 +1,8 @@
-import static tasks.MergeIntervals.testsMergeIntervals;
+import static tasks.MissingNumber.testsMissingNumber;
 
 public class Main {
 
     public static void main(String[] args) {
-        testsMergeIntervals();
+        testsMissingNumber();
     }
 }
