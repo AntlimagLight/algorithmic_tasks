@@ -1,8 +1,9 @@
-import static tasks.linkedlistcircle.LinkedListCircle.testsLinkedListCircle;
+import static tasks.addtwonums.AddTwoNumbers.testsAddTwoNumbers;
 
 public class Main {
 
     public static void main(String[] args) {
-        testsLinkedListCircle();
+        testsAddTwoNumbers();
+//        NewTask.testsNewTask();
     }
 }
